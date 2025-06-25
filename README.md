@@ -1,16 +1,15 @@
 # 💫 About Me:
-Hi! I'm a passionate **Frontend Developer** with a growing expertise in **Full Stack Web Development**.  
-Currently expanding my skills in **Node.js and MongoDB** to become a proficient **MERN Stack Developer**.
+Frontend Developer on the path to becoming a full-fledged **MERN Stack Developer**.  
+I build responsive, modern websites using **React**, **Tailwind**, and **Bootstrap** — and currently learning **Node.js** and **MongoDB**.
 
-I build responsive, dynamic, and user-centric websites using modern technologies like **React**, **Tailwind CSS**, and **Bootstrap**.  
-I believe in writing clean code, continuously learning, and building products that offer great user experiences.
+🔍 Focused on clean code, real-world projects & growth through continuous learning.
 
-🚀 Open to frontend opportunities | Backend in progress | Focused on real-world development
-
-**📫 Reach me:**  
+📫 Reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Protap-Dutta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taniton001@gmail.com)
+
 ---
+
 # 🛠️ Tech Stack & GitHub Stats
 
 <table>
