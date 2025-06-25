@@ -13,7 +13,7 @@
       </div>
     </td>
     <td width="10%" align="center" valign="top">
-      <img src="https://github.com/ProtapDutta/ProtapDutta/blob/main/assets/diamond.gif?raw=true" alt="Diamond Animation" width="100" />
+      <img src="https://github.com/ProtapDutta/ProtapDutta/blob/main/assets/diamond.gif?raw=true" alt="Diamond Animation" width="80" />
     </td>
   </tr>
   <tr>
