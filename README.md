@@ -27,11 +27,13 @@ I build responsive, modern websites using **React**, **Tailwind**, and **Bootstr
     </td>
   </tr>
 </table>
+
 ---
 
 # 🛠️ Tech Stack & GitHub Stats
 
 ---
+
 <table>
 
 <tr>
