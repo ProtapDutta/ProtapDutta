@@ -7,17 +7,9 @@ I believe in writing clean code, continuously learning, and building products th
 
 🚀 Open to frontend opportunities | Backend in progress | Focused on real-world development
 
----
-
-## 🌐 Connect with Me:
-<div align="center">
-  <a href="https://linkedin.com/in/Protap-Dutta">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:taniton001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+**📫 Reach me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Protap-Dutta)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taniton001@gmail.com)
 
 ---
 
