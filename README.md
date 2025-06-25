@@ -47,7 +47,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 ### 💻 Languages & Tools  
 <p>
@@ -76,7 +76,9 @@
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
 
 ### 🛠️ Dev Tools  
 <p>
@@ -88,7 +90,7 @@
 
 </td>
 
-<td width="45%" valign="top">
+<td width="50%" valign="top">
 
 ### 📈 GitHub Stats  
 <p align="center">
