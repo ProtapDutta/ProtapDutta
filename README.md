@@ -49,7 +49,7 @@
 <table>
 
 <tr>
-<td width="80%" valign="top">
+<td width="70%" valign="top">
 
 ### 💻 Languages & Tools  
 <p>
@@ -90,7 +90,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 ### 📈 GitHub Stats  
 <p align="center">
