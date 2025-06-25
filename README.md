@@ -1,12 +1,12 @@
 # 💫 About Me:
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+I'm+Protap+Dutta;Frontend+Developer+%7C+MERN+Stack+Learner;React+%7C+Tailwind+%7C+Node+%7C+MongoDB;Clean+UI+%7C+Practical+Projects+%7C+Real+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+I'm+Protap+Dutta;Frontend+Developer+%7C+MERN+Stack+Learner;React+%7C+Tailwind+%7C+Node+%7C+MongoDB;Clean+UI+%7C+Practical+Projects+%7C+Real+Code" />
 </p>
 
 <table width="100%">
   <tr>
-    <td colspan="2">
-      <div style="font-size: 16px; line-height: 1.3;">
+    <td colspan="2" style="padding-bottom: 10px;">
+      <div style="font-size: 16px;">
         Frontend Developer on the path to becoming a full-fledged <strong>MERN Stack Developer</strong>.<br><br>
         I build responsive, modern websites using <strong>React</strong>, <strong>Tailwind</strong>, and <strong>Bootstrap</strong> — and currently learning <strong>Node.js</strong> and <strong>MongoDB</strong>.
       </div>
@@ -17,7 +17,7 @@
       🔍 Focused on clean code, real-world projects & growth through continuous learning.
     </td>
     <td align="right" valign="middle">
-      <table style="border: 1px solid #ccc; border-radius: 6px; background-color: #f0f0f0;">
+      <table style="border: 1px solid #ccc; border-radius: 6px; background-color: #f0f0f0; padding: 4px;">
         <tr>
           <td style="padding: 4px 8px;">
             📫 <strong>Reach Me:</strong>
@@ -38,8 +38,6 @@
   </tr>
 </table>
 
-
-
 ---
 
 # 🛠️ Tech Stack & GitHub Stats
@@ -47,9 +45,8 @@
 ---
 
 <table>
-
 <tr>
-<td width="70%" valign="top">
+<td width="55%" valign="top">
 
 ### 💻 Languages & Tools  
 <p>
@@ -90,7 +87,7 @@
 
 </td>
 
-<td width="60%" valign="top">
+<td width="45%" valign="top">
 
 ### 📈 GitHub Stats  
 <p align="center">
@@ -109,7 +106,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ProtapDutta&style=for-the-badge&color=007ACC&label=Visitors" alt="Profile views" />
 </p>
-
-
-
-
