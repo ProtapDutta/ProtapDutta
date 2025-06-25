@@ -6,6 +6,7 @@ I build responsive, dynamic, and user-centric websites using modern technologies
 I believe in writing clean code, continuously learning, and building products that offer great user experiences.
 
 🚀 Open to frontend opportunities | Backend in progress | Focused on real-world development
+
 **📫 Reach me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Protap-Dutta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taniton001@gmail.com)
