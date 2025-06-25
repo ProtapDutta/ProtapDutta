@@ -59,9 +59,6 @@ I build responsive, modern websites using **React**, **Tailwind**, and **Bootstr
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ProtapDutta&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="100%"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProtapDutta&theme=radical&hide_border=false&layout=compact" width="100%"/>
 </p>
 <p align="center">
