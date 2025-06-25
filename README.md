@@ -4,38 +4,38 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+I'm+Protap+Dutta;Frontend+Developer+%7C+MERN+Stack+Learner;React+%7C+Tailwind+%7C+Node+%7C+MongoDB;Clean+UI+%7C+Practical+Projects+%7C+Real+Code" />
 </p>
 
-<table width="100%" style="border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9; padding: 10px;">
+<table width="100%" style="border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9;">
   <tr>
-    <td width="90%" valign="top" style="padding-right: 10px;">
-      <div style="font-size: 17px;">
+    <td width="80%" valign="top" style="padding: 10px;">
+      <div style="font-size: 16px;">
         Frontend Developer, currently advancing toward full-stack proficiency as a <strong>MERN Stack Developer</strong>.<br><br>
         I build responsive, modern websites using <strong>React</strong>, <strong>Tailwind</strong>, and <strong>Bootstrap</strong> — and currently learning <strong>Node.js</strong> and <strong>MongoDB</strong>.
       </div>
     </td>
-    <td width="10%" align="center" valign="top">
-      <img src="https://github.com/ProtapDutta/ProtapDutta/blob/main/assets/diamond.gif?raw=true" alt="Diamond Animation" width="80" />
+    <td width="20%" align="center" valign="middle">
+      <img src="https://github.com/ProtapDutta/ProtapDutta/blob/main/assets/diamond.gif?raw=true" alt="Diamond Animation" width="90" />
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td colspan="2" style="padding: 10px;">
       <table width="100%">
         <tr>
           <td align="left" valign="middle">
             🔍 Focused on clean code, real-world projects & growth through continuous learning.
           </td>
           <td align="right" valign="middle">
-            <table style="border: 1px solid #ccc; border-radius: 6px; background-color: #f0f0f0; padding: 4px;">
+            <table style="border: 1px solid #ccc; border-radius: 6px; background-color: #f0f0f0;">
               <tr>
                 <td style="padding: 4px 8px;">
                   📫 <strong>Reach Me:</strong>
                 </td>
                 <td>
-                  <a href="https://linkedin.com/in/Protap-Dutta" target="_blank" style="display:inline-block;">
+                  <a href="https://linkedin.com/in/Protap-Dutta" target="_blank">
                     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="20" />
                   </a>
                 </td>
                 <td>
-                  <a href="mailto:taniton001@gmail.com" style="display:inline-block;">
+                  <a href="mailto:taniton001@gmail.com">
                     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="20" />
                   </a>
                 </td>
@@ -47,6 +47,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
