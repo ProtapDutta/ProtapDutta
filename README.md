@@ -1,9 +1,13 @@
 # 💫 About Me:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&width=500&lines=Hi+I+am+Protap+Dutta;Frontend+Developer;MERN+Stack+Learner;Clean+UI+Enthusiast;Let's+Build+Cool+Stuff!" />
+</p>
+
 
 <table width="100%">
   <tr>
     <td colspan="2">
-      <div style="font-size: 16px; line-height: 1.5;">
+      <div style="font-size: 16px; line-height: 1.3;">
         Frontend Developer on the path to becoming a full-fledged <strong>MERN Stack Developer</strong>.<br><br>
         I build responsive, modern websites using <strong>React</strong>, <strong>Tailwind</strong>, and <strong>Bootstrap</strong> — and currently learning <strong>Node.js</strong> and <strong>MongoDB</strong>.
       </div>
