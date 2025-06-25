@@ -9,18 +9,27 @@ I build responsive, modern websites using **React**, **Tailwind**, and **Bootstr
       🔍 Focused on clean code, real-world projects & growth through continuous learning.
     </td>
     <td align="right" valign="middle">
-      <span style="display: inline-block; padding: 6px 10px; border: 1px solid #ccc; border-radius: 6px; background-color: #f0f0f0;">
-        📫 <strong>Reach Me:</strong>
-        <a href="https://linkedin.com/in/Protap-Dutta" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="20" />
-        </a>
-        <a href="mailto:taniton001@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="20" />
-        </a>
-      </span>
+      <table style="border: 1px solid #ccc; border-radius: 6px; background-color: #f0f0f0;">
+        <tr>
+          <td style="padding: 4px 8px;">
+            📫 <strong>Reach Me:</strong>
+          </td>
+          <td>
+            <a href="https://linkedin.com/in/Protap-Dutta" target="_blank">
+              <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="20" />
+            </a>
+          </td>
+          <td>
+            <a href="mailto:taniton001@gmail.com">
+              <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="20" />
+            </a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
+
 
 
 
