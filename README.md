@@ -6,38 +6,50 @@
 
 <table width="100%" style="border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9; padding: 10px;">
   <tr>
-    <td colspan="2" style="padding-bottom: 10px;">
+    <td width="90%" valign="top" style="padding-right: 10px;">
       <div style="font-size: 17px;">
         Frontend Developer, currently advancing toward full-stack proficiency as a <strong>MERN Stack Developer</strong>.<br><br>
         I build responsive, modern websites using <strong>React</strong>, <strong>Tailwind</strong>, and <strong>Bootstrap</strong> — and currently learning <strong>Node.js</strong> and <strong>MongoDB</strong>.
       </div>
     </td>
+    <td width="10%" align="center" valign="top">
+      <img src="https://github.com/ProtapDutta/ProtapDutta/blob/main/assets/diamond.gif?raw=true" alt="Diamond Animation" width="100" />
+    </td>
   </tr>
   <tr>
-    <td align="left" valign="middle">
-      🔍 Focused on clean code, real-world projects & growth through continuous learning.
-    </td>
-    <td align="right" valign="middle">
-      <table style="border: 1px solid #ccc; border-radius: 6px; background-color: #f0f0f0; padding: 4px;">
+    <td colspan="2">
+      <table width="100%">
         <tr>
-          <td style="padding: 4px 8px;">
-            📫 <strong>Reach Me:</strong>
+          <td align="left" valign="middle">
+            🔍 Focused on clean code, real-world projects & growth through continuous learning.
           </td>
-          <td>
-            <a href="https://linkedin.com/in/Protap-Dutta" target="_blank" style="display:inline-block;">
-              <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="20" />
-            </a>
-          </td>
-          <td>
-            <a href="mailto:taniton001@gmail.com" style="display:inline-block;">
-              <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="20" />
-            </a>
+          <td align="right" valign="middle">
+            <table style="border: 1px solid #ccc; border-radius: 6px; background-color: #f0f0f0; padding: 4px;">
+              <tr>
+                <td style="padding: 4px 8px;">
+                  📫 <strong>Reach Me:</strong>
+                </td>
+                <td>
+                  <a href="https://linkedin.com/in/Protap-Dutta" target="_blank" style="display:inline-block;">
+                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="20" />
+                  </a>
+                </td>
+                <td>
+                  <a href="mailto:taniton001@gmail.com" style="display:inline-block;">
+                    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="20" />
+                  </a>
+                </td>
+              </tr>
+            </table>
           </td>
         </tr>
       </table>
     </td>
   </tr>
 </table>
+
+
+
 
 ---
 
@@ -47,7 +59,7 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
 ### 💻 Languages & Tools  
 <p>
@@ -90,7 +102,7 @@
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
 ### 📈 GitHub Stats  
 <p align="center">
