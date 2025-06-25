@@ -72,8 +72,9 @@ I build responsive, modern websites using **React**, **Tailwind**, and **Bootstr
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ProtapDutta&style=for-the-badge&color=brightgreen&label=Visitors" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ProtapDutta&style=for-the-badge&color=007ACC&label=Visitors" alt="Profile views" />
 </p>
+
 
 
 
