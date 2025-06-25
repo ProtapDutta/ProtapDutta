@@ -1,7 +1,7 @@
 # 💫 About Me:
 <table>
   <tr>
-    <td align="left" valign="middle">
+    <td >
       Frontend Developer on the path to becoming a full-fledged **MERN Stack Developer**.  
 I build responsive, modern websites using **React**, **Tailwind**, and **Bootstrap** — and currently learning **Node.js** and **MongoDB**.
     </td>
