@@ -1,12 +1,10 @@
 # 💫 About Me:
 Frontend Developer on the path to becoming a full-fledged **MERN Stack Developer**.  
-I build responsive, modern websites using **React**, **Tailwind**, and **Bootstrap** — and currently learning **Node.js** and **MongoDB**.
+I build responsive, modern websites using **React**, **Tailwind**, and **Bootstrap** — and currently learning **Node.js** and **MongoDB**.  
+🔍 Focused on clean code, real-world projects & growth through continuous learning.  
+<a href="https://linkedin.com/in/Protap-Dutta"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height="22"/></a>
+<a href="mailto:taniton001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="22"/></a>
 
-🔍 Focused on clean code, real-world projects & growth through continuous learning.
-
-📫 Reach me:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/Protap-Dutta)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taniton001@gmail.com)
 
 ---
 
