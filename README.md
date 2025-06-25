@@ -3,9 +3,9 @@
 <table width="100%">
   <tr>
     <td colspan="2">
-      <div style="font-size: 18px; line-height: 1.6;">
-      Frontend Developer on the path to becoming a full-fledged <strong>MERN Stack Developer</strong>.  
-      I build responsive, modern websites using <strong>React</strong>, <strong>Tailwind</strong>, and <strong>Bootstrap</strong> — and currently learning <strong>Node.js</strong> and <strong>MongoDB</strong>.
+      <div style="font-size: 16px; line-height: 1.6;">
+        Frontend Developer on the path to becoming a full-fledged <strong>MERN Stack Developer</strong>.<br><br>
+        I build responsive, modern websites using <strong>React</strong>, <strong>Tailwind</strong>, and <strong>Bootstrap</strong> — and currently learning <strong>Node.js</strong> and <strong>MongoDB</strong>.
       </div>
     </td>
   </tr>
@@ -34,6 +34,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ---
