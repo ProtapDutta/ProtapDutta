@@ -21,81 +21,64 @@ I believe in writing clean code, continuously learning, and building products th
 
 ---
 
-# 🛠️ Tech Stack:
-
-<details>
-<summary><strong>💻 Languages & Tools</strong></summary>
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-</div>
-</details>
-
-<details>
-<summary><strong>⚛️ Frontend</strong></summary>
-<div align="center">
-
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
-</div>
-</details>
-
-<details>
-<summary><strong>🎨 Styling</strong></summary>
-<div align="center">
-
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-</details>
-
-<details>
-<summary><strong>🌐 Backend (Learning)</strong></summary>
-<div align="center">
-
-![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-</details>
-
-<details>
-<summary><strong>🛠️ Dev Tools</strong></summary>
-<div align="center">
-
-![Git](https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![ESLint](https://img.shields.io/badge/eslint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
-
-</div>
-</details>
-
----
-
-# 📈 GitHub Stats:
+# 🛠️ Tech Stack & GitHub Stats
 
 <table>
 <tr>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api?username=ProtapDutta&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+<td width="60%" valign="top">
+
+### 💻 Languages & Tools  
+<p>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</p>
+
+### ⚛️ Frontend  
+<p>
+<img src="https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+</p>
+
+### 🎨 Styling  
+<p>
+<img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### 🌐 Backend (Learning)  
+<p>
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🛠️ Dev Tools  
+<p>
+<img src="https://img.shields.io/badge/git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/eslint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
+</p>
+
 </td>
-<td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProtapDutta&theme=radical&hide_border=false&layout=compact" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ProtapDutta&theme=radical&hide_border=false" />
+
+<td width="40%" valign="top">
+
+### 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ProtapDutta&theme=radical&hide_border=false&include_all_commits=true&count_private=false" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProtapDutta&theme=radical&hide_border=false&layout=compact" width="100%"/>
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ProtapDutta&theme=radical&hide_border=false" width="100%"/>
+</p>
+
 </td>
 </tr>
 </table>
@@ -103,7 +86,5 @@ I believe in writing clean code, continuously learning, and building products th
 ---
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ProtapDutta&icon=0&color=0" />
-  </a>
+  <img src="https://visitcount.itsvg.in/api?id=ProtapDutta&icon=0&color=0" />
 </div>
