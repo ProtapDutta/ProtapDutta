@@ -3,11 +3,10 @@
 Frontend Developer on the path to becoming a full-fledged **MERN Stack Developer**.  
 I build responsive, modern websites using **React**, **Tailwind**, and **Bootstrap** — and currently learning **Node.js** and **MongoDB**.
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap;">
-  <span>🔍 Focused on clean code, real-world projects & growth through continuous learning.</span>
-  
-  <div style="display: flex; align-items: center; gap: 8px; padding: 6px 12px; border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9;">
-    <strong>📫 Reach Me:</strong>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-top: 10px;">
+  <span style="font-size: 14px;">🔍 Focused on clean code, real-world projects & growth through continuous learning.</span>
+  <div style="display: flex; align-items: center; gap: 8px; padding: 6px 12px; border: 1px solid #ccc; border-radius: 6px; background-color: #f0f0f0;">
+    <strong style="margin-right: 4px;">📫 Reach Me:</strong>
     <a href="https://linkedin.com/in/Protap-Dutta" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height="22"/>
     </a>
