@@ -1,8 +1,6 @@
 # 💫 About Me:
-
 Frontend Developer on the path to becoming a full-fledged **MERN Stack Developer**.  
 I build responsive, modern websites using **React**, **Tailwind**, and **Bootstrap** — and currently learning **Node.js** and **MongoDB**.
-
 <table>
   <tr>
     <td align="left" valign="middle">
@@ -29,13 +27,8 @@ I build responsive, modern websites using **React**, **Tailwind**, and **Bootstr
     </td>
   </tr>
 </table>
-
-
-
 ---
-
 # 🛠️ Tech Stack & GitHub Stats
-
 <table>
 <tr>
 <td width="60%" valign="top">
