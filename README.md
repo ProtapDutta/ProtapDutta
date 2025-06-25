@@ -31,6 +31,7 @@ I build responsive, modern websites using **React**, **Tailwind**, and **Bootstr
 # 🛠️ Tech Stack & GitHub Stats
 ---
 <table>
+
 <tr>
 <td width="60%" valign="top">
 
