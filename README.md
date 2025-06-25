@@ -1,12 +1,14 @@
-  <p align="center">
+# 💫 About Me:
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+I'm+Protap+Dutta;Frontend+Developer+%7C+MERN+Stack+Learner;React+%7C+Tailwind+%7C+Node+%7C+MongoDB;Clean+UI+%7C+Practical+Projects+%7C+Real+Code" />
 </p>
 
-<table width="100%">
+<table width="100%" style="border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9; padding: 10px;">
   <tr>
     <td colspan="2" style="padding-bottom: 10px;">
-      <div style="font-size: 18px;">
-        Frontend Developer on the path to becoming a full-fledged <strong>MERN Stack Developer</strong>.<br><br>
+      <div style="font-size: 17px;">
+        Frontend Developer, currently advancing toward full-stack proficiency as a <strong>MERN Stack Developer</strong>.<br><br>
         I build responsive, modern websites using <strong>React</strong>, <strong>Tailwind</strong>, and <strong>Bootstrap</strong> — and currently learning <strong>Node.js</strong> and <strong>MongoDB</strong>.
       </div>
     </td>
@@ -103,5 +105,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ProtapDutta&style=for-the-badge&color=007ACC&label=Visitors" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ProtapDutta&style=for-the-badge&color=007ACC&label=Profile+Views" alt="Profile views" />
 </p>
