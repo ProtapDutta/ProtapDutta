@@ -3,24 +3,18 @@
 Frontend Developer on the path to becoming a full-fledged **MERN Stack Developer**.  
 I build responsive, modern websites using **React**, **Tailwind**, and **Bootstrap** — and currently learning **Node.js** and **MongoDB**.
 
-<table>
-  <tr>
-    <td align="left" valign="middle">
-      🔍 Focused on clean code, real-world projects & growth through continuous learning.
-    </td>
-    <td align="right" valign="middle">
-      <span style="display: inline-block; padding: 6px 10px; border: 1px solid #ccc; border-radius: 6px; background-color: #f0f0f0;">
-        📫 <strong>Reach Me:</strong>
-        <a href="https://linkedin.com/in/Protap-Dutta" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="20" />
-        </a>
-        <a href="mailto:taniton001@gmail.com">
-          <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="20" />
-        </a>
-      </span>
-    </td>
-  </tr>
-</table>
+<td align="right" valign="middle">
+  <span style="display: inline-block; padding: 6px 10px; border: 1px solid #ccc; border-radius: 6px; background-color: #f0f0f0;">
+    📫 <strong>Reach Me:</strong>
+    <a href="https://linkedin.com/in/Protap-Dutta" target="_blank" style="display:inline-block; margin-right:4px; vertical-align:middle;">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="20" />
+    </a>
+    <a href="mailto:taniton001@gmail.com" style="display:inline-block; vertical-align:middle;">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="20" />
+    </a>
+  </span>
+</td>
+
 
 
 
