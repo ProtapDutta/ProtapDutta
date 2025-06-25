@@ -71,6 +71,7 @@ I build responsive, modern websites using **React**, **Tailwind**, and **Bootstr
 
 ---
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ProtapDutta&icon=0&color=0" />
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ProtapDutta/count.svg" />
+</p>
+
