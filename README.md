@@ -4,43 +4,35 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Hi+I'm+Protap+Dutta;Frontend+Developer+%7C+MERN+Stack+Learner;React+%7C+Tailwind+%7C+Node+%7C+MongoDB;Clean+UI+%7C+Practical+Projects+%7C+Real+Code" />
 </p>
 
-<!-- Responsive container -->
-<div align="center">
-
-<!-- Flex layout for About section -->
-<table width="100%" style="border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9; padding: 10px; display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <tr style="width: 100%; display: flex; flex-wrap: wrap;">
-    <!-- Text column -->
-    <td style="flex: 1 1 70%; padding-bottom: 10px; min-width: 250px;">
+<table width="100%" style="border: 1px solid #ccc; border-radius: 6px; background-color: #f9f9f9; padding: 10px;">
+  <tr>
+    <td width="80%" style="padding-bottom: 10px;">
       <div style="font-size: 17px;">
         Frontend Developer, currently advancing toward full-stack proficiency as a <strong>MERN Stack Developer</strong>.<br><br>
         I build responsive, modern websites using <strong>React</strong>, <strong>Tailwind</strong>, and <strong>Bootstrap</strong> — and currently learning <strong>Node.js</strong> and <strong>MongoDB</strong>.
       </div>
     </td>
-    <!-- Image column -->
-    <td style="flex: 1 1 25%; text-align: center; padding-bottom: 10px; min-width: 100px;">
+    <td width="20%" align="center" style="padding-bottom: 10px;">
       <img src="https://github.com/ProtapDutta/ProtapDutta/blob/main/assets/diamond.gif?raw=true" alt="Diamond Animation" width="100" />
     </td>
   </tr>
-
-  <!-- Bottom row with contact info -->
-  <tr style="width: 100%; display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <td style="flex: 1 1 60%; min-width: 250px;">
+  <tr>
+    <td align="left" valign="middle">
       🔍 Focused on clean code, real-world projects & growth through continuous learning.
     </td>
-    <td style="flex: 1 1 35%; text-align: right; min-width: 220px;">
-      <table style="border: 1px solid #ccc; border-radius: 6px; background-color: #f0f0f0; padding: 4px; display: inline-block;">
+    <td align="right" valign="middle">
+      <table style="border: 1px solid #ccc; border-radius: 6px; background-color: #f0f0f0; padding: 4px;">
         <tr>
           <td style="padding: 4px 8px;">
             📫 <strong>Reach Me:</strong>
           </td>
           <td>
-            <a href="https://linkedin.com/in/Protap-Dutta" target="_blank">
+            <a href="https://linkedin.com/in/Protap-Dutta" target="_blank" style="display:inline-block;">
               <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="20" />
             </a>
           </td>
           <td>
-            <a href="mailto:taniton001@gmail.com">
+            <a href="mailto:taniton001@gmail.com" style="display:inline-block;">
               <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" height="20" />
             </a>
           </td>
@@ -49,7 +41,7 @@
     </td>
   </tr>
 </table>
-</div>
+
 
 ---
 
@@ -90,6 +82,7 @@
 <img src="https://img.shields.io/badge/mongodb-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
 
 ### 🛠️ Dev Tools  
 <p>
